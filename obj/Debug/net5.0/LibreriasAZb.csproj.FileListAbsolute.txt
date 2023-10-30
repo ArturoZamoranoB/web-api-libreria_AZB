@@ -1,0 +1,7 @@
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.csproj.AssemblyReference.cache
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.AssemblyInfoInputs.cache
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.AssemblyInfo.cs
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.csproj.CoreCompileInputs.cache
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cd13\Documents\DGGR\LibreriasAZb\obj\Debug\net5.0\LibreriasAZb.MvcApplicationPartsAssemblyInfo.cache
